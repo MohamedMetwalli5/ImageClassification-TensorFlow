@@ -6,7 +6,6 @@
 ## About The CNN
   * kernel Size = 3*3
   * Activation Function = Rectified Linear Units (ReLU)
-  <br>
   * ![image](https://user-images.githubusercontent.com/58489322/165895959-7935335e-1ac5-4f43-a480-f6324783289d.png)
 
 ## The DataSet
