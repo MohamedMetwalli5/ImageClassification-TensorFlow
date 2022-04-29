@@ -1,4 +1,7 @@
+![License](https://img.shields.io/badge/License-GPL&ndash;3.0%20-violet.svg)
+
 # ImageClassification-TensorFlow
+
 ## The DataSet
 The CIFAR-10 dataset
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
