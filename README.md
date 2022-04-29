@@ -3,6 +3,11 @@
 
 # ImageClassification-TensorFlow
 
+## About The CNN
+  * kernel Size = 3*3
+  * Activation Function = Rectified Linear Units (relu)
+  ![image](https://user-images.githubusercontent.com/58489322/165895959-7935335e-1ac5-4f43-a480-f6324783289d.png)
+
 ## The DataSet
 The CIFAR-10 dataset
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
